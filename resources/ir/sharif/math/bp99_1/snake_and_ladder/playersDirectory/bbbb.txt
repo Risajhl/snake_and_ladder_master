@@ -1,0 +1,5 @@
+name:bbbb
+id
+6
+total score
+-1

@@ -1,0 +1,5 @@
+name:min
+id:
+2
+score:
+0

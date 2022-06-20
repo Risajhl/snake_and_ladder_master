@@ -1,0 +1,5 @@
+name:aaaa
+id
+5
+total score
+24
